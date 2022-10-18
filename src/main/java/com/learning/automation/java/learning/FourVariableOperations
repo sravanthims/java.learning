@@ -19,7 +19,7 @@ public class FourVariableOperations {
 		System.out.println("Multiplication Result:" +Mul);
 		float Div = (a/b)/(c/d);
 		System.out.println("Division Result:" +Div);
-		float modulo = (a%b);
+		float modulo = (a%b%c%d);
 		System.out.println("Modulo Result:" +modulo);
 		 
 	}
